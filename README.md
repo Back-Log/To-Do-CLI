@@ -7,6 +7,8 @@
 ## Demo
 
 *Todo* exists to bring all the needed functionalities for simple project management to the terminal. No graphical interface is needed; this tool is easy enough to use to improve your workflow.
+
+
 ![Todo workflow](https://media.giphy.com/media/72z9w0u4TwCJrOEaD6/giphy.gif)
 
 ## Usage
@@ -27,37 +29,38 @@ You can now start adding tasks!
 * [Get the report](#toggle-a-task)
 * [Help](#search-tasks)
 
-### Delete a project
+### Help
 
 ```console
-$ todo delete
+$ ./todo help
 ```
 
 
 ### Add a task
 
 ```console
-$ todo add "Name of the task"
+$ ./todo add "Name of the task"
 ```
 
-```
 
 ### Remove a task
 
 To remove a specific task by name:
 
 ```console
-$ todo remove "Name of the task"
+$ ./todo del <task number>
 ```
 
-To remove a task with an interactive menu (Unix only):
+### Complete a task
 
 ```console
-$ todo remove
+$ ./todo done <task number>
 ```
 
-*You can use `rm` instead of `remove`.*
+### Get a report
 
-
+```console
+$ ./todo report
 ```
+
 
