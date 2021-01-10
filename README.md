@@ -3,7 +3,7 @@
 
 > Command-line tool to manage the Todo lists of your projects
 
-![Todo workflow](https://photos.google.com/search/_tra_/photo/AF1QipOLFhA31uvXboBi-BBQLN_uCH5QjhBeuC3tWsT0)
+![Todo workflow](https://media.giphy.com/media/MTK5WgqPj9l0cs7Swo/giphy.gif)
 
 *Built with Python3 with Unix systems in mind.*
 
