@@ -11,7 +11,7 @@
 
 *Todo* exists to bring all the needed functionalities for simple project management to the terminal. No graphical interface is needed; this tool is easy enough to use to improve your workflow.
 
-![Todo screenshot](https://photos.google.com/search/_tra_/photo/AF1QipPKerfT6pVTK--ucQblZHHDeh18KbFjQj9L2zTX)
+![Todo screenshot](https://user-images.githubusercontent.com/64234448/104127321-7dba8c00-5387-11eb-8973-2e1214cd7509.png)
 
 ## Usage
 
