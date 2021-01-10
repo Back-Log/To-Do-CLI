@@ -2,13 +2,12 @@
 
 > Command-line tool to manage the Todo lists 
 
-![Todo workflow](https://media.giphy.com/media/72z9w0u4TwCJrOEaD6/giphy.gif)
+![Todo screenshot](https://user-images.githubusercontent.com/64234448/104127321-7dba8c00-5387-11eb-8973-2e1214cd7509.png)
 
-## Image demo
+## Demo
 
 *Todo* exists to bring all the needed functionalities for simple project management to the terminal. No graphical interface is needed; this tool is easy enough to use to improve your workflow.
-
-![Todo screenshot](https://user-images.githubusercontent.com/64234448/104127321-7dba8c00-5387-11eb-8973-2e1214cd7509.png)
+![Todo workflow](https://media.giphy.com/media/72z9w0u4TwCJrOEaD6/giphy.gif)
 
 ## Usage
 
