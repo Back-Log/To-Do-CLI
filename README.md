@@ -45,7 +45,7 @@ $ ./todo add "Name of the task"
 
 ### Remove a task
 
-To remove a specific task by name:
+To remove a specific task by number:
 
 ```console
 $ ./todo del <task number>
