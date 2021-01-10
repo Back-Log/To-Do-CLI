@@ -1,13 +1,10 @@
-<<<<<<< HEAD
-# Todo (CLI)
+# Todo (Command Line)
 
-> Command-line tool to manage the Todo lists of your projects
+> Command-line tool to manage the Todo lists 
 
 ![Todo workflow](https://media.giphy.com/media/72z9w0u4TwCJrOEaD6/giphy.gif)
 
-*Built with Python3 with Unix systems in mind.*
-
-## Elevator Pitch
+## Image demo
 
 *Todo* exists to bring all the needed functionalities for simple project management to the terminal. No graphical interface is needed; this tool is easy enough to use to improve your workflow.
 
@@ -24,22 +21,12 @@ You can now start adding tasks!
 
 ## Commands
 
-* [Create a project](#create-a-project)
-* [Delete a project](#delete-a-project)
-* [Rename a project](#rename-a-project)
 * [Add a task](#add-a-task)
-* [Remove a task](#remove-a-task)
-* [Check a task](#check-a-task)
-* [Uncheck a task](#uncheck-a-task)
-* [Toggle a task](#toggle-a-task)
-* [List all tasks](#list-all-tasks)
-* [Search tasks](#search-tasks)
-
-### Create a project
-
-```console
-$ todo init
-```
+* [Delete a task](#remove-a-task)
+* [list all task](#check-a-task)
+* [Mark as done](#uncheck-a-task)
+* [Get the report](#toggle-a-task)
+* [Help](#search-tasks)
 
 ### Delete a project
 
@@ -74,6 +61,4 @@ $ todo remove
 
 
 ```
-=======
 
->>>>>>> 4519b205a446f271d2edf8c35c474dc867426267
